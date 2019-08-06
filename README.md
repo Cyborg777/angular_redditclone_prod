@@ -1,5 +1,7 @@
 # AngularRedditClone
 
+This is a simple Reddit clone, an application that allows the user to post an article (with a title and a URL) and then vote on the posts.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.0.
 
 ## Development server
